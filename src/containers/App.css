@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "SPR";
+  font-style: normal;
+  font-weight: normal;
+  src: local("SPR"), url("SPR.woff") format("woff");
+}
+
+h1 {
+  font-family: "SPR";
+  font-weight: 200;
+  font-size: 3rem;
+  color: #0ccac4;
+}
